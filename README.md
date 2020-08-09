@@ -10,7 +10,7 @@ To download the tool For (KaiL,PaROoT,Termux)
 
 apt install git (0r) pkg install git
 
-git clone https://github.com/ALHARM4/Hack5
+git clone https://github.com/BH4HOSAM/Hack5
 
 cd HAK5
 
